@@ -1,7 +1,7 @@
 ## Olá Bom dia ! 👋
 
 - 📚 Esudo Analisse e Desenvolvimento de Sistemas
-
+- ⏳ Ainda não trabalho na área
 <div align="center">
   <a href="https://github.com/nathanaelreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanaelreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
