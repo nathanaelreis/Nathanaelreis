@@ -32,7 +32,6 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nathanaelreis&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Nathanaelreis's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Nathanaelreis&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Nathanaelreis's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nathanaelreis&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="nathanael araujo reis's GitHub Trophies" />
